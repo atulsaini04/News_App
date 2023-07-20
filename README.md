@@ -12,7 +12,7 @@ In Root Folder Run the following commands (assuming you already have flutter env
 
 The app will successfully launch after few moments.
 
-
+Demo URL
 https://youtu.be/NXKzDAeFD9k
 <p align="center">
   <img src = "https://github.com/atulsaini04/News_App/blob/main/screenshots/Screenshot_20230720-200646.png" width = "250">
@@ -23,4 +23,3 @@ https://youtu.be/NXKzDAeFD9k
 <img src = "https://github.com/atulsaini04/News_App/blob/main/screenshots/Screenshot_20230720-201042.png" width = "250">
 
 </p>
-https://github.com/atulsaini04/News_App/blob/main/News_App%20(1).mp4
