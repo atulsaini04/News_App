@@ -23,3 +23,4 @@ https://youtu.be/NXKzDAeFD9k
 <img src = "https://github.com/atulsaini04/News_App/blob/main/screenshots/Screenshot_20230720-201042.png" width = "250">
 
 </p>
+https://github.com/atulsaini04/News_App/blob/main/News_App%20(1).mp4
