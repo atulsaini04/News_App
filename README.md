@@ -9,6 +9,6 @@ A new Flutter project.
     <img src = "https://github.com/atulsaini04/News_App/blob/main/screenshots/Screenshot_20230720-200738.png" width = "250">
 <img src = "https://github.com/atulsaini04/News_App/blob/main/screenshots/Screenshot_20230720-200731.png" width = "250">
 <img src = "https://github.com/atulsaini04/News_App/blob/main/screenshots/Screenshot_20230720-201042.png" width = "250">
-[![Video](https://img.youtube.com/vi/NXKzDAeFD9k/0.jpg)](https://www.youtube.com/watch?v=NXKzDAeFD9k)
+https://youtu.be/NXKzDAeFD9k
  
 </p>
